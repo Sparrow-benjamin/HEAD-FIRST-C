@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib>
 
-int main()
+int main(void)
 {
 char card_name[3];
 puts("enter the card_name: ");
