@@ -34,6 +34,6 @@ else
 val = atoi(card_name);
 }
 printf("The card value is: %i\n", val);
-return 0;
+return (0);
 }
 
