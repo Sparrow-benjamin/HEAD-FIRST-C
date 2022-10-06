@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main(void);
 {
 /*display 'Hello World' on the screen*/
 printf("Hello world");
