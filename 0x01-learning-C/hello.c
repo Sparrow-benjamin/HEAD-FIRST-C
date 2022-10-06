@@ -2,8 +2,7 @@
 
 int main()
 {
-  //display 'Hello World' on the screen
-  printf("Hello world");
-
-  return 0;
+//display 'Hello World' on the screen
+printf("Hello world");
+return 0;
 }
