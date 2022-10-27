@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void k(int m0, int m1, int m2)
 {
